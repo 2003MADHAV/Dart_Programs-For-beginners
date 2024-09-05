@@ -1,66 +1,54 @@
-# Dart Programming Tutorial for Beginners 
-Learn Dart Programming, its basics and Fundamentals from scratch.
-
-## Topics to be covered
-0. Overview
-    - Course introduction, prequisites and software required
+# Basic  Dart Programming  for Beginners
+ # overviews 
+0. Introduction
+Overview of the course, prerequisites, and software required.
 1. Installation
-    - Install required softwares for Windows, MAC and Linux ( Ubuntu )
-2. Getting Started with Dart Programming
-    - Run your first app in Dart
-    - Comments
-3. Exploring Data Types and Variables 
-    - Data Types and Variables
-    - String, Literals and String Interpolation
-    - Define constants using "final" and "const" keywords
-4. Control Flow Statements 
-    - IF ELSE 
-    - Conditional Expressions
-    - Ternary Operator 
-5. Loop Control Statements 
-    - What are Iterators?
-    - FOR Loop and how it works
-    - WHILE Loop
-    - DO WHILE Loop 
-    - BREAK statements 
-    - CONTINUE keyword 
-    - Labelled FOR Loop 
-6. Exploring Functions or Methods 
-    - Declaring functions 
-    - Function Expressions: Short hand syntax or using FAT ARROR 
-    - Optional Positional Parameters 
-    - Optional Named Parameters 
-    - Optional Default Parameters 
+Step-by-step instructions for installing Dart on Windows, macOS, and Linux (Ubuntu).
+2. Getting Started with Dart
+Write and execute your first Dart program.
+Learn how to use comments effectively.
+3. Understanding Data Types and Variables
+Explanation of Dart's data types and variables.
+String handling, literals, and string interpolation.
+Defining constants with final and const.
+4. Control Flow Statements
+Introduction to control structures in Dart:
+If-Else statements.
+Conditional expressions and the ternary operator.
+5. Loops in Dart
+Overview of iterators and their uses.
+Understanding different loop constructs:
+For loops, While loops, Do-While loops.
+The use of break and continue.
+Labelled for loops for advanced control.
+6. Functions and Methods
+How to declare functions in Dart.
+Using shorthand syntax (fat arrow) for function expressions.
+Handling parameters:
+Positional, named, and default parameters.
 7. Exception Handling
-    - Demo with example
-    - Custom Exception Class 
-8. Object Oriented Programming: Getting Started 
-    - Defining Class and creating Objects
-    - Instance and field variables 
-    - Constructors
-      - Default
-      - Named
-      - Parameterized 
-9. More on Object Oriented Dart 
-    - Inheritance
-    - Getter and Setter
-    - Private Instance Variable 
-    - Polymorphism 
-    - Using constructors in Inheritance
-    - Static variables and methods 
+Learn error-handling in Dart with examples.
+Create custom exception classes.
+8. Introduction to Object-Oriented Programming (OOP)
+Learn to define classes and instantiate objects.
+Explore instance and field variables.
+Work with constructors:
+Default, named, and parameterized constructors.
+9. Advanced OOP Concepts
+Dive deeper into OOP with Dart:
+Inheritance and polymorphism.
+Using getters and setters.
+Private instance variables and access control.
+Explore static variables and methods.
 10. Functional Programming in Dart
-    - Lambda Expression
-    - Higher-Order Functions
-    - Lexical Closures 
-11. Dart Collections 
-    - Arrays or List
-        - Fixed Length List
-        - Growable List
-    - Set and HashSet 
-    - Map and HashMap 
-12. Callable Classes 
-13. Conclusion 
-
-## Authors
-
-* **Sriyank Siddhartha** 
+Understand functional programming principles:
+Lambda expressions, higher-order functions, and lexical closures.
+11. Dart Collections
+Overview of Dart's collection types:
+List (Fixed-length and Growable).
+Set and HashSet.
+Map and HashMap.
+12. Callable Classes
+Explore callable classes and how they enhance Dart's flexibility.
+13. Course Conclusion
+Wrap-up and review of key concepts covered
